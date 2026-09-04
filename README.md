@@ -72,7 +72,7 @@ also installs the three workflow skills below.
 
 ## The skills
 
-Six skills come with the subscription.
+Seven skills come with the subscription.
 
 **For combining methods into workflows.** Describe your situation and the right one
 steps in:
@@ -83,6 +83,8 @@ steps in:
   Say: "Portfolio Coach"
 - **Agent Designer**: Design an AI agent or bot before it meets users: what it may do, when it hands off to a human, and its personality as a usable system prompt.
   Say: "Agent Designer"
+- **Design Critic**: Review a design and come back with the issues worth fixing, ranked, each with a fix.
+  Say: "Design Critic"
 
 **For specific needs.** Full packages that install once:
 
