@@ -1,7 +1,7 @@
 # The library
 
-101 methods across 10 areas. Titles, ids, and one-line summaries; the full method
-text is what the [UX+AI MCP](../README.md) serves to signed-in subscribers.
+101 methods across 10 areas. Titles, ids, and one-line summaries; the full
+methods are what the [UX+AI MCP](../README.md) serves to signed-in subscribers.
 
 Browse the same catalog on the site: [uxai.ileanamarcut.co](https://uxai.ileanamarcut.co)
 

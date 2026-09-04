@@ -59,7 +59,7 @@ Your AI talks to the connector through six tools:
 | `slash_commands` | Tells an AI how to install the Claude Code plugin |
 
 Every method has a stable id, such as `heuristic-critique`. Download links from
-`get_skill` work for 15 minutes and only for the person who asked. Method text flows
+`get_skill` work for 15 minutes and only for the person who asked. The methods flow
 to signed-in subscribers only.
 
 ## The plugin, for Claude Code
@@ -119,7 +119,7 @@ Or browse it on the site: [uxai.ileanamarcut.co](https://uxai.ileanamarcut.co).
 
 ## Licence
 
-Method text is licensed to individual subscribers for their own work. It flows to
+The methods are licensed to individual subscribers for their own work. They flow to
 signed-in subscribers only, and may not be redistributed or republished.
 
 Copyright © 2026 Ileana Marcut, UX+AI. All rights reserved.
